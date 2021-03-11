@@ -1,0 +1,56 @@
+body{
+    background-color: #b8b4b4;
+}
+
+.container1{
+    background-color: white;
+}
+
+img{
+    width: 10%;
+}
+
+.maison{
+    display: flex;
+    justify-content: center;
+}
+
+.container2, .container5{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    margin: 25px;
+}
+
+.container3, .container4{
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    margin: 25px;
+}
+
+.mamy{
+    display: flex;
+}
+
+.ble1 img , .ble2 img{
+    width: 45%;
+    justify-content: center;    
+}
+
+.ble3 img , .ble4 img{
+    width: 45%;
+    justify-content: center;    
+}   
+    
+.container3 img,.container4 img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
